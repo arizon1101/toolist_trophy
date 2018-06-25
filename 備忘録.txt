@@ -1,0 +1,6 @@
+os:ubuntu
+1 pipインストール
+2 gitインストール
+3 djangoインストール
+4 docker インストール
+
